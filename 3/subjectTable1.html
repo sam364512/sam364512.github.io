@@ -1,0 +1,28 @@
+<!doctype html> <!-- subjectTable1.html -->
+<html lang="ko">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, inital-scale=1">
+<style>
+  table, thead, tbody, tfoot, tr, th, td {border: 2px solid black; border-collapse:collapse;text-align:center;}
+  .subject1 { background color:lightgray; } .subject 2 { background-color#FAF4Co; }
+  th,td { width:50px; }
+</style> <!--  border-collapse:collapse 단선으로, 반대는 separate  -->
+<title> HTML5 시간표 만들기 숙제 </title>
+<body>
+	<table>
+	<caption>&lt;표 1&gt; 시간표</caption>
+		<thead>
+			<tr><th>시간</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th><th>토</th></tr>
+      </thead>
+		<tbody>
+			<tr><td>9</td><td rowspan="2"> </td><td rowspan="2" class="Major1">자료구조<br>이경휘<br>24404</td><td rowspan="2"> </td><td rowspan="4"> </td><td rowspan="9"> </td><td rowspan="2"> </td></tr>
+			<tr><td>10</td></tr>
+			<tr><td>11</td><td rowspan="2" class="Major2">디지털논리<br>회로<br>김용수<br>24401</td><td rowspan="2"> </td><td rowspan="2" class="Major1">자료구조<br>이경휘<br>24404</td><td rowspan="3" class="Nmajor1">유클리드<br>기하학<br>최병문</td></tr>
+			<tr><td>12</td></tr>
+			<tr><td>13</td><td rowspan="4" class="Major3">C++프로그<br>래밍<br>이새봄<br>24414</td><td class="Major2">디지털논리<br>회로<br>김용수<br>24401</td><td rowspan="2" class="Nmajor2">영어회화2<br>15706<br>아담<br>드레슬러</td><td rowspan="2" class="Major4">인터넷 응용<br>우훈식<br>24404</td></tr>
+			<tr><td>14</td><td rowspan="3"> </td><td rowspan="4"> </td></tr>
+			<tr><td>15</td><td rowspan="3"> </td><td rowspan="3"> </td></tr>
+			<tr><td>16</td></tr>
+			<tr><td>17</td><td> </td><td class="Major4">인터넷 응용<br>우훈식<br>24404</td></tr>
+      <tr><td>18</td></tr>
+		</tbody>
+	</table></body></html>
