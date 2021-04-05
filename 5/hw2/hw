@@ -10,15 +10,15 @@
 <img src="https://sam364512.github.io/5/세계지도.png" border=0 usemap="#area">
 <map name="area">
    <area alt='한국' shape="rect" target="_blank" coords='1001,208,1022,214' href="https://sam364512.github.io/5/hw2/한국.html">
-   <area alt='러시아' shape="rect" target="_blnak" coords='802,106,923,132' href="https://sam364512.github.io/5/hw2/일본.html">
-   <area alt='일본' shape="rect" target="_blnak" coords='576,253,608,254' href="https://sam364512.github.io/5/hw2/중국.html">
-   <area alt='중국' shape="rect" target="_blnak" coords='481,233,556,271' href="https://sam364512.github.io/5/hw2/러시아.html">
-   <area alt='미국' shape="rect" target="_blnak" coords='93,221,177,256' href="https://sam364512.github.io/5/hw2/영국.html">
-   <area alt='캐나다' shape="rect" target="_blnak" coords='62,139,201,211' href="https://sam364512.github.io/5/hw2/미국.html">
-   <area alt='브라질' shape="rect" target="_blnak" coords='198,319,252,358' href="https://sam364512.github.io/5/hw2/캐나다.html">
-   <area alt='호주' shape="rect" target="_blnak" coords='547,350,615,394' href="https://sam364512.github.io/5/hw2/프랑스.html">
-   <area alt='아르헨티나' shape="rect" target="_blnak" coords='200,363,208,431' href="https://sam364512.github.io/5/hw2/호주.html">
-   <area alt='태국' shape="rect" target="_blnak" coords='514,284,532,294' href="https://sam364512.github.io/5/hw2/멕시코.html">
+   <area alt='일본' shape="rect" target="_blnak" coords='1030,207,1069,214' href="https://sam364512.github.io/5/hw2/일본.html">
+   <area alt='중국' shape="rect" target="_blnak" coords='856,193,964,231' href="https://sam364512.github.io/5/hw2/중국.html">
+   <area alt='러시아' shape="rect" target="_blnak" coords='802,106,923,132' href="https://sam364512.github.io/5/hw2/러시아.html">
+   <area alt='영국' shape="rect" target="_blnak" coords='518,134,541,144' href="https://sam364512.github.io/5/hw2/영국.html">
+   <area alt='미국' shape="rect" target="_blnak" coords='106,176,190,212' href="https://sam364512.github.io/5/hw2/미국.html">
+   <area alt='캐나다' shape="rect" target="_blnak" coords='117,108,205,137' href="https://sam364512.github.io/5/hw2/캐나다.html">
+   <area alt='브라질' shape="rect" target="_blnak" coords='273,393,353,414' href="https://sam364512.github.io/5/hw2/브라질.html">
+   <area alt='호주' shape="rect" target="_blnak" coords='1020,467,1099,492' href="https://sam364512.github.io/5/hw2/호주.html">
+   <area alt='멕시코' shape="rect" target="_blnak" coords='91,242,160,286' href="https://sam364512.github.io/5/hw2/멕시코.html">
    <area shape="default" noref>
 </map> 
 </body>
